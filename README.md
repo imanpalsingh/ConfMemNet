@@ -4,6 +4,8 @@
 
 ConfMemNet is a lightweight Transformer architecture that integrates a novel confidence-based gating mechanism and a dual memory module to improve contextual relevance and long-range dependency tracking. This project reproduces the results from our accompanying paper and provides an implementation of the model.
 
+Read it [here](https://github.com/imanpalsingh/ConfMemNet/blob/main/Attention%20is%20not%20enough.pdf)
+
 
 ## Motivation
 
